@@ -29,5 +29,5 @@ Sometimes there are operating systems that work with some tools
 
 ------------------------------------------------------------------------
 
-<img src="https://www.up-00.com/fpju7godknv8">
+<img src="https://www.up-00.com/i/00207/fpju7godknv8_t.jpg">
 
