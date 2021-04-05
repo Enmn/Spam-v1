@@ -5,4 +5,4 @@
 ![size](https://img.shields.io/static/v1?label=minified%20size&message=2.679%20bt&color=orange)
 
 It is a spam that sends messages to me anyone, via social media or otherwise
-This tool was made entirely in the Python language, and this tool is just for pranks and fun, no more, no less
+This tool was made entirely in the Python language, and this tool is just for pranks and fun no more and no less, We hope you have a good and wonderful use of this beautiful tool
