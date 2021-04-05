@@ -1,6 +1,6 @@
 # Spam-v1
 ![Python](https://img.shields.io/static/v1?label=Python&message=3.9.4&color=informational)
-![Ernrt](https://img.shields.io/static/v1?label=System&message=Windows,%20Linux,%20Mac&color=yellowgreen)
+![Ernrt](https://img.shields.io/static/v1?label=System&message=Windows,%20Linux,%20Unix&color=yellowgreen)
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
 ![size](https://img.shields.io/static/v1?label=minified%20size&message=2.20%20kb&color=orange)
 
