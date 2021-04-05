@@ -21,9 +21,9 @@ Follow these steps, Now go to the terminal
 ------------------------------------------------------------------------
 ### Operating systems you are working on
 
-• **Windows**
-• **Unix** 
-• **Linux**
+ **Windows**
+ **Unix** 
+ **Linux**
 
 ------------------------------------------------------------------------
 
