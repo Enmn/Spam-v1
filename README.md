@@ -8,5 +8,13 @@ It is a spam that sends messages to me anyone, via social media or otherwise
 This tool was made entirely in the Python language, and this tool is just for pranks and fun no more and no less, We hope you have a good and wonderful use of this beautiful tool.
 
 ------------------------------------------------------------------------
-### How to use the tool?
+### How to use the tool
+
+Follow these steps, Now go to the terminal
+
+* `Go to the tool or file path`
+
+* `pip -r install requirements.txt`
+
+* `py test.py`
 
