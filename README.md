@@ -19,4 +19,11 @@ Follow these steps, Now go to the terminal
 * `py test.py`
 
 ------------------------------------------------------------------------
+### Operating systems you are working on
+
+• **Windows**
+• **Unix** 
+• **Linux**
+
+------------------------------------------------------------------------
 
