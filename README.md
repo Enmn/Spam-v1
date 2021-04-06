@@ -28,6 +28,9 @@ Sometimes there are operating systems that work with some tools
  **Linux**
 
 ------------------------------------------------------------------------
+### User interface when running the tool!
+
+When you launch the tool, it will appear in the image in front of you
 
 <img src="https://i.imgur.com/y21DWX0.png">
 
