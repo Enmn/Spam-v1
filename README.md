@@ -29,7 +29,7 @@ Sometimes there are operating systems that work with some tools
 
 ------------------------------------------------------------------------
 
-<img src="https://www.up-00.com/i/00207/qd4srjr0mu3n_t.jpg">
+<img src="https://www.up-00.com/i/00207/qd4srjr0mu3n.jpg">
 
 
 
