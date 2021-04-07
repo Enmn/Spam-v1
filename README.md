@@ -50,6 +50,11 @@ Well when you run the tool for me you will have three options
 
 We are not responsible for any damage that may happen to you because of the tool, it depends on your use of it.
 
+------------------------------------------------------------------------
+### Our social media accounts
+
+[TikTok](https://www.tiktok.com/@l.7a)
+
 
 
 
