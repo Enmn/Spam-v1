@@ -14,7 +14,7 @@ Follow these steps, Now go to the terminal
 
 * `Go to the tool or file path`
 
-* `pip -r install requirements.txt`
+* `pip install -r requirements.txt`
 
 * `Windows: py test.py \ Linux: python test.py`
 
