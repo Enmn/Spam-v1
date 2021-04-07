@@ -53,7 +53,7 @@ We are not responsible for any damage that may happen to you because of the tool
 ------------------------------------------------------------------------
 ### Our social media accounts
 
-[TikTok](https://www.tiktok.com/@l.7a)
+-[TikTok](https://www.tiktok.com/@l.7a)
 
 
 
