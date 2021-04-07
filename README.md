@@ -37,6 +37,19 @@ When you launch the tool, it will appear in the image in front of you
 ------------------------------------------------------------------------
 ### More details
 
+Well when you run the tool for me you will have three options
+
+* `1 - Is that you enter the message you want and the number of messages you want to send`
+
+* `2 - With text files, texts are written and written automatically from the text file anywhere you specify`
+
+* `3 - Exit the tool`
+
+------------------------------------------------------------------------
+### Warning ⚠
+
+We are not responsible for any damage that may happen to you because of the tool, it depends on your use of it.
+
 
 
 
